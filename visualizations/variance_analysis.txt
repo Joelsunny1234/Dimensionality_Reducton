@@ -1,0 +1,7 @@
+Variance Analysis for PCA:
+Cumulative Explained Variance for 10, 50, and 100 Components:
+10 Components: 0.28
+50 Components: 0.55
+100 Components: 0.71
+
+Trade-off: More components retain more information but increase computational cost.
